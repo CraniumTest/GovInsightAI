@@ -1,0 +1,16 @@
+Flask==2.1.1
+fastapi==0.78.0
+uvicorn==0.17.6
+pandas==1.4.2
+numpy==1.22.3
+scikit-learn==1.0.2
+tensorflow==2.8.0
+torch==1.11.0
+transformers==4.19.2
+sqlalchemy==1.4.32
+psycopg2-binary==2.9.3
+elasticsearch==7.14.0
+plotly==5.6.0
+dash==2.3.0
+requests==2.27.1
+python-dotenv==0.20.0
